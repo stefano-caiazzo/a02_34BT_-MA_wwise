@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1619097370" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Triggers\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Switches\Default Work Unit.wwu" DateLow="1619171822" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\States\Default Work Unit.wwu" DateLow="1619217014" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1619433384" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\SoundBanks\Default Work Unit.wwu" DateLow="1619433384" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Queries\Factory Queries.wwu" DateLow="1619097370" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Queries\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Presets\Factory Spatial Audio.wwu" DateLow="1619097370" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Presets\Factory Reflect.wwu" DateLow="1619097395" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Presets\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Modulators\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Metadata\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1619170932" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Interactive Music Hierarchy\Music.wwu" DateLow="1619431820" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1619097395" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Game Parameters\Factory Motion.wwu" DateLow="1619097395" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Game Parameters\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Events\Default Work Unit.wwu" DateLow="1619216856" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory Reflect.wwu" DateLow="1619097395" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory McDSP Effects.wwu" DateLow="1619097396" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory Mastering Suite.wwu" DateLow="1619097394" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1619097396" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1619097396" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1619097396" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory iZotope Filters.wwu" DateLow="1619097396" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory iZotope Dynamics.wwu" DateLow="1619097396" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory iZotope Delay.wwu" DateLow="1619097396" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory iZotope Box Modeler.wwu" DateLow="1619292245" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory Effects.wwu" DateLow="1619097370" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Factory Auro Headphone.wwu" DateLow="1619097396" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Effects\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1619097370" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Audio Devices\Default Work Unit.wwu" DateLow="1619170932" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Attenuations\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1619097370" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1619097395" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1619170932" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\34BT - MA_wwise.wproj" DateLow="1619164671" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\34BT - MA_wwise.user.wsettings" DateLow="1619433384" DateHigh="0"/>
+</ValidationCache>

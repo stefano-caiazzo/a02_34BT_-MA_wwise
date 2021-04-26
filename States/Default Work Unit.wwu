@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{492ABB54-287B-49E6-B259-D0F2BBC81082}" SchemaVersion="103">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{492ABB54-287B-49E6-B259-D0F2BBC81082}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="moods" ID="{B85708E2-B5AB-4D26-A375-165CFA3FDE52}">
+					<ChildrenList>
+						<State Name="None" ID="{B71E4510-0502-4BA8-8E28-D7B69E046ABB}"/>
+						<State Name="intro_state" ID="{95EEB39C-C488-4435-8D42-E32FF839CD94}"/>
+						<State Name="LI_state" ID="{77051BAA-04E6-4303-B93B-5CCF14EBEE53}"/>
+						<State Name="MI_state" ID="{7B342206-5BC4-478B-A196-B4ACC148705B}"/>
+						<State Name="HI_state" ID="{CD7601D8-5E77-436F-B1AD-2DF15010AE08}"/>
+						<State Name="outro_state" ID="{0FF7861F-DEA8-4E68-B998-346B94882115}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>
